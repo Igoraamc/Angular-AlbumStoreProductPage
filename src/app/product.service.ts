@@ -16,5 +16,4 @@ export class ProductService {
       return response.json();
     });
   }
-
 }
